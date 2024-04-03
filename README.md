@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohamed-Salman-Afhan
-- 👀 I’m interested in UI/UX and Web Development
+- 👀 I’m interested in Software Engineering, UI/UX and Web Development
 - 🌱 I’m currently learning JavaScript and PHP
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me - You can reach me via my email => salmanafhan59@gmail.com
